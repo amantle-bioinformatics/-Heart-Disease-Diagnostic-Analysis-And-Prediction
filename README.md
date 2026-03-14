@@ -1,8 +1,8 @@
 ---
 
-*Project By*: Amantle Michelle Makati
+Project By: Amantle Michelle Makati
 
-*Date Created*: 14 March 2026
+Date Created: 14 March 2026
 
 ---
 
