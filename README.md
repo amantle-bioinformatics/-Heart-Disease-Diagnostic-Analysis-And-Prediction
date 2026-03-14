@@ -4,6 +4,9 @@ Project By: Amantle Michelle Makati
 
 Date Completed: 14 March 2026
 
+This Dataset was from Kaggle the link is below:
+https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction/data
+
 ---
 
 # Heart Disease Diagnostic Analysis and Prediction
